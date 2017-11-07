@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyInjectProject.iml" filepath="$PROJECT_DIR$/MyInjectProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectannotation/injectannotation.iml" filepath="$PROJECT_DIR$/injectannotation/injectannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectapi/injectapi.iml" filepath="$PROJECT_DIR$/injectapi/injectapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectcompiler/injectcompiler.iml" filepath="$PROJECT_DIR$/injectcompiler/injectcompiler.iml" />
+    </modules>
+  </component>
+</project>
